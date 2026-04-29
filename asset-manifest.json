@@ -1,15 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.aaf8a06a.js",
-    "static/js/453.7c4813a6.chunk.js": "/static/js/453.7c4813a6.chunk.js",
-    "index.html": "/index.html",
-    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.aaf8a06a.js.map": "/static/js/main.aaf8a06a.js.map",
-    "453.7c4813a6.chunk.js.map": "/static/js/453.7c4813a6.chunk.js.map"
+    "main.js": "/MUAK-inventario-cocina/static/js/main.ba259109.js",
+    "index.html": "/MUAK-inventario-cocina/index.html",
+    "main.ba259109.js.map": "/MUAK-inventario-cocina/static/js/main.ba259109.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.aaf8a06a.js"
+    "static/js/main.ba259109.js"
   ]
 }
